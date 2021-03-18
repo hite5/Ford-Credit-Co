@@ -31,6 +31,6 @@ The given points in the .txt file are given below with their respetive distances
 > Distance =  10
 
 ### You can also choose to enter your own points. If you choose to do so keep in mind the formatting
-> (first input, second input) (third input, fourth input)
+> (first input, second input), (third input, fourth input)
 > 
-> Start (x, y) | Destination (x, y)
+> Start (x, y), Destination (x, y)
