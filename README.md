@@ -13,18 +13,24 @@ If you have python3 installed do the following:
 The given points in the .txt file are given below with their respetive distances:
 
 > Start       (1,3)
+> 
 > Destination (-1,2)
+> 
 > Distance =  3
 
 > Start       (3,4)
+> 
 > Destination (9,6)
+> 
 > Distance =  8
 
 > Start       (13,3)
+> 
 > Destination (18,8)
+> 
 > Distance =  10
 
 ### You can also choose to enter your own points. If you choose to do so keep in mind the formatting
 > (first input, second input) (third input, fourth input)
 > 
-> Start (x, y) Destination (x, y)
+> Start (x, y) | Destination (x, y)
