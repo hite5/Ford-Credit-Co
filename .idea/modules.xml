@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/Ford-Credit-Co.iml" filepath="$PROJECT_DIR$/.idea/Ford-Credit-Co.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ford-Credit-Co-GUI.iml" filepath="$PROJECT_DIR$/Ford-Credit-Co-GUI.iml" />
     </modules>
   </component>
 </project>
