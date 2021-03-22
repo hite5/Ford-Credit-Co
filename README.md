@@ -1,6 +1,6 @@
 # Ford-Credit-Co
 ## This is for the Ford Credit interview exercises.
-I have implemented the first exercise. I added a .txt file that can automate answers for you. The .txt file should install into the same directory as the .py file, but if it does not for some reason move it to the same level in the directory.
+I have implemented the first exercise (distance calculator). I added a .txt file that can automate answers for you. The .txt file should install into the same directory as the .py file, but if it does not for some reason move it to the same level in the directory.
 
 ### Locate the ManhattanDistance.py file inside of the Ford-Credit-Co folder and run the following command:
 > python ManhattanDistance.py
@@ -34,3 +34,13 @@ The given points in the .txt file are given below with their respetive distances
 > (first input, second input), (third input, fourth input)
 > 
 > Start (x, y), Destination (x, y)
+> 
+
+## For Exercise 2 (GUI)
+
+From the directory of where the cloned repository was downloaded, continue to follow this path in your termianl to run the GUI.
+> Ford-Credit-Co\Ford-GUI\out\production\Ford-GUI
+>
+Once you are there run the following commmand:
+> java FordModel
+> 
